@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\zml\Desktop\ex3\Project1\Project1\源.cpp(132,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\zml\Desktop\ex3\Project1\Project1\源.cpp(225,16): warning C4101: “i”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\zml\Desktop\ex3\Project1\Debug\Project1.exe
